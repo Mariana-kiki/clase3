@@ -14,5 +14,6 @@ void main ()
       acum = acum + 5;
       printf("%d ", acum);
     }
+  
   printf("\n");
 }
