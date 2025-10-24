@@ -9,7 +9,7 @@ void main()
     {
       if(i % 3 == 0)
       {
-        printf("Num: %d\n, 1);
+        printf("Num: %d\n", i);
       }
     }
 }
